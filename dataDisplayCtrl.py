@@ -1,12 +1,18 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
+#============================================================================================
+# dataDisplayCtrl.py
+# 
+# Create a grid (worksheet) display of data in a Notebook page
+# 
+# author:           David Witten
+# last modified:    02/01/2021
+#============================================================================================
 """
-Modified from ZetCode wxPython tutorial
+ Create a grid (worksheet) display of data in a Notebook page
 
-Select and parse a CSV file
-
-author: David Witten
-last modified: December 2020
+ author:           David Witten
+ last modified:    02/01/2021
 """
 from pathlib import Path
 import os

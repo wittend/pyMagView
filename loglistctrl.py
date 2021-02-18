@@ -1,5 +1,13 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: UTF-8 -*-
+#============================================================================================
+# logLlistctrl.py
+# 
+# Select and parse a CSV file
+# 
+# author:           David Witten
+# last modified:    02/01/2021
+#============================================================================================
 """
 Modified from ZetCode wxPython tutorial
 

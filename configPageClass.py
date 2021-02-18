@@ -1,3 +1,19 @@
+#!/usr/bin/env python3
+# -*- coding: UTF-8 -*-
+#============================================================================================
+# configPageClass.py
+# 
+# Create a configuration page display of parameters in a Notebook page.
+# 
+# author:           David Witten
+# last modified:    02/01/2021
+#============================================================================================
+"""
+ Create a configuration page display of parameters in a Notebook page.
+
+ author:           David Witten
+ last modified:    02/01/2021
+"""
 import wx
 
 def configPage(self, sizer_5):

@@ -1,5 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
+#============================================================================================
+# nbPlotClass.py
+# 
+# Soupport for ploting graphs in a notebook class. 
+# 
+# author:           David Witten
+# last modified:    02/01/2021
+#============================================================================================
 """
 nbPlotClass.py
 
